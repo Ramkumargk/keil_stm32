@@ -1,0 +1,5 @@
+load STM32F429ZITx
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "E:\Ram\Embedded_Project\Keil\Stm32\Uart\STM32CubeMX\Target_1"
+SetCopyLibrary "copy only"
